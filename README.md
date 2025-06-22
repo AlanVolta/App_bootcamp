@@ -5,6 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
+
 $$
 S_w = \sqrt{ \frac{a \cdot R_w}{\phi^m \cdot R_t} }
 $$
